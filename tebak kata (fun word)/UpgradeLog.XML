@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TebakKata">
+</Property><Property Name="Solution File" Value="D:\Berkas\nn\semester 4\VB GAME\tebak kata\TebakKata.sln">
+</Property><Property Name="Date" Value="March 26, 2013">
+</Property><Property Name="Time" Value="13:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TebakKata.sln" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\TebakKata.sln">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="TebakKata.vbproj" Description="Project file successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\TebakKata.vbproj">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmData.Designer.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmData.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmData.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmData.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmMain.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmMain.Designer.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmData.resx" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmData.resx">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="frmMain.resx" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Berkas\nn\semester 4\VB GAME\tebak kata\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="TebakKata.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TebakKata" Source="TebakKata.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TebakKata.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TebakKata.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TebakKata" Source="TebakKata.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

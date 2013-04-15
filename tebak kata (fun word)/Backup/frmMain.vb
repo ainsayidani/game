@@ -13,14 +13,6 @@ Public Class frmMain
         PrintLine(i, "uang" & vbCrLf & "air" & vbCrLf & "bintang" & vbCrLf & "dompet" & vbCrLf & "lampu")
         PrintLine(i, "tv" & vbCrLf & "kertas" & vbCrLf & "majalah" & vbCrLf & "kipas angin" & vbCrLf & "kalender")
         FileClose(i)
-
-    End Sub
-    Sub clue()
-        Dim j As Integer = FreeFile()
-        FileOpen(j, Application.StartupPath & "\CLUE.txt", OpenMode.Output)
-        PrintLine(j, "alat untuk menulis?" & vbCrLf & "media untuk menulis?")
-        FileClose(j)
-       
     End Sub
 
     Sub RefreshData()
@@ -47,6 +39,7 @@ Lagi:
 
     Sub MulaiBaru()
         Dim i As Integer
+
         If IsNothing(LB) = False Then
             For i = 0 To UBound(LB)
                 LB(i).Dispose()
@@ -63,12 +56,12 @@ Lagi:
             LB(i).TextAlign = ContentAlignment.MiddleCenter
             LB(i).BorderStyle = BorderStyle.FixedSingle
             LB(i).Width = 25
-            LB(i).Top = 200
+            LB(i).Top = 40
 
             If i = 0 Then
                 LB(i).Left = 20
             Else
-                LB(i).Left = LB(i - 1).Left + 35
+                LB(i).Left = LB(i - 1).Left + 30
             End If
 
             If Mid(DataSekarang, i + 1, 1) = " " Then 'jk spasi
@@ -143,19 +136,20 @@ Lagi:
         For i = 0 To 25 'proses pembuatan tombol A-Z
             BT(i) = New Button
             BT(i).Text = Chr(Asc("A") + i)
-            BT(i).Top = 250
-            BT(i).Width = 22
+            BT(i).Top = 80
+            BT(i).Width = 20
 
             If i = 0 Then
                 BT(i).Left = 10
             Else
-                BT(i).Left = BT(i - 1).Left + 22
+                BT(i).Left = BT(i - 1).Left + 20
             End If
 
             AddHandler BT(i).Click, AddressOf BT_Click 'menambahakan event click
 
             Me.Controls.Add(BT(i))
         Next
+
         RefreshData()
         MulaiBaru()
     End Sub
@@ -166,13 +160,5 @@ Lagi:
 
     Private Sub btnData_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnData.Click
         frmData.ShowDialog()
-    End Sub
-
-    Private Sub Panel3_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles Panel3.Click
-        FormCreator.Show()
-    End Sub
-
-    Private Sub Panel2_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles Panel2.Click
-        Me.Close()
     End Sub
 End Class

@@ -1,0 +1,37 @@
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.exe
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.pdb
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.xml
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\ResolveAssemblyReference.cache
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.frmData.resources
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.frmMain.resources
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.Resources.resources
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.vbproj.GenerateResource.Cache
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.exe
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.xml
+D:\Berkas\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.pdb
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.exe
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.xml
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.pdb
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.exe
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.pdb
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\bin\Debug\TebakKata.xml
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\ResolveAssemblyReference.cache
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.frmData.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.frmMain.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.Resources.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata\obj\Debug\TebakKata.vbproj.GenerateResource.Cache
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.exe
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.xml
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.pdb
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\bin\Debug\TebakKata.exe
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\bin\Debug\TebakKata.pdb
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\bin\Debug\TebakKata.xml
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\ResolveAssemblyReference.cache
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.frmData.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.frmMain.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.Resources.resources
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.vbproj.GenerateResource.Cache
+D:\kuliah\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.FormCreator.resources
+D:\Berkas\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.exe
+D:\Berkas\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.xml
+D:\Berkas\semester 4\nn\semester 4\VB GAME\tebak kata (fun word)\obj\Debug\TebakKata.pdb
